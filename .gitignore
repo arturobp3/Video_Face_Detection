@@ -1,0 +1,7 @@
+__pycache__
+
+# No queremos subir lo que generamos ni lo que añadimos en las entradas
+outputImages
+detectedFaces.avi
+images
+videos
